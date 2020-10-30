@@ -3,3 +3,20 @@
     height: auto;
 }
 
+html {
+    border-left-style: solid;
+    border-left-width: 30px;
+    border-left-color: #2a2e93;
+    position: relative;
+
+    border-right-style: solid;
+    border-right-width: 30px;
+    border-right-color: #2a2e93;
+    position: relative;
+}
+
+.btn {
+    background-color: #2a2e93 !important;
+}
+
+
